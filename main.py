@@ -56,7 +56,7 @@ def main():
     pygame.init()
     pygame.font.init()
     pygame.mixer.init()
-    pygame.display.set_caption('King Oink')
+    pygame.display.set_caption('MORE THAN 1')
 
     screen_height, screen_width = (1280, 720)
     screen = pygame.display.set_mode((screen_height, screen_width))
